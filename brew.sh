@@ -94,6 +94,7 @@ brew install vbindiff
 brew install zopfli
 brew install diff-so-fancy
 brew install screenfetch
+brew install tldr
 
 # Remove outdated versions from the cellar.
 brew cleanup
