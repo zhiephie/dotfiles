@@ -55,4 +55,4 @@ complete -o "nospace" -W "Contacts Calendar Dock Finder Mail Safari iTunes Syste
 if which rbenv > /dev/null; then eval "$(rbenv init -)"; fi
 
 # Screenfetch
-if [ -f /usr/bin/screenfetch ]; then screenfetch; fi
+if [ -f /usr/local/bin/screenfetch ]; then screenfetch; fi
