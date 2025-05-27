@@ -60,3 +60,5 @@
 [user]
 	name = Yudi Purwanto
 	email = purwantoyudi42@gmail.com
+[credential]
+	helper = store
