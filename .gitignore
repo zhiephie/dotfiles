@@ -64,6 +64,14 @@ Pods/
 # Fish local config
 .config/fish/config-local.fish
 .config/fish/fish_variables.x86_64
+.config/fish/fish_variables
+
+# Composer
+.config/composer
+
+.config/github-copilot
+.config/nextjs-nodejs
+.config/turborepo
 
 # Karabiner
 .config/karabiner/automatic_backups
